@@ -1,0 +1,8 @@
+D:\InTime\InTime\InTime\bin\x86\Debug\Content\Charactor\mainC.xnb
+D:\InTime\InTime\InTime\bin\x86\Debug\Content\Map\Collision_test.xnb
+D:\InTime\InTime\InTime\bin\x86\Debug\InTime.exe
+D:\InTime\InTime\InTime\bin\x86\Debug\InTime.pdb
+D:\InTime\InTime\InTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\InTime\InTime\InTime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\InTime\InTime\InTime\obj\x86\Debug\InTime.exe
+D:\InTime\InTime\InTime\obj\x86\Debug\InTime.pdb
